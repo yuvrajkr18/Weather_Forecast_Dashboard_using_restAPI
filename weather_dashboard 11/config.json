@@ -1,0 +1,6 @@
+{
+  "api_key": "YOUR_OPENWEATHERMAP_API_KEY",
+  "default_city": "Bengaluru",
+  "unit": "C",
+  "refresh_seconds": 600
+}
